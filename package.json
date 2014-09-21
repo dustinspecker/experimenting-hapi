@@ -1,0 +1,26 @@
+{
+  "name": "experimenting-hapi",
+  "version": "0.0.0",
+  "description": "Experimenting with Hapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dustinspecker/experimenting-hapi.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "Dustin Specker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinspecker/experimenting-hapi/issues"
+  },
+  "homepage": "https://github.com/dustinspecker/experimenting-hapi",
+  "dependencies": {
+    "good": "^2.3.0",
+    "hapi": "^6.8.1"
+  }
+}
