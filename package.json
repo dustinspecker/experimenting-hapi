@@ -21,6 +21,7 @@
   "homepage": "https://github.com/dustinspecker/experimenting-hapi",
   "dependencies": {
     "good": "^2.3.0",
-    "hapi": "^6.8.1"
+    "hapi": "^6.8.1",
+    "joi": "^4.7.0"
   }
 }
